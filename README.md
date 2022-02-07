@@ -4,3 +4,5 @@ Project Team Members: Adam Vitti
 Yo yo, this is the main branch changes
 
 Corrected Adam's changes
+Project Team Members: Devin Gessner
+This is the main branch changes
